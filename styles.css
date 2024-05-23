@@ -1,0 +1,22 @@
+body {
+  font-family: "DM Sans", sans-serif;
+}
+h1 {
+  font-size: 32px;
+  font-weight: 956%;
+}
+
+.Rectangle {
+  width: 1150px;
+  height: 410px;
+  background-image: url("../resurces/Rectangle.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.Rectangle-text-wrapper p {
+  font-size: 12px;
+  padding-left: 40px;
+  padding-top: 320px;
+  color: white;
+}
